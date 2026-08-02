@@ -19,6 +19,7 @@
     "jsonwebtoken": "^9.0.2",
     "nodemailer": "^6.9.9",
     "redis": "^4.6.13",
+    "twilio": "^5.13.0",
     "tsx": "^4.7.0"
   },
   "devDependencies": {
